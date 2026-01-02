@@ -1,4 +1,4 @@
-# Daxwell-InterviewProject
+# Data Warehouse Project
 Build a Data WH with SQL Server, including ETL process, Data modeling and analystics
 
 Welcome to the **Data Warehouse Project** repository!
